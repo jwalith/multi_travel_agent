@@ -20,17 +20,17 @@ pip install -r requirements.txt
 
 ### Agents
 
-1. **Research & Discovery Agent**
+1. **Research & Discovery Agent** - Researches tourist attractions, restaurants, and local culture using free search APIs to gather comprehensive destination information.
    - Searches for attractions and restaurants
    - Uses: DuckDuckGo, Wikipedia
    - Output: Comprehensive destination research
 
-2. **Booking & Logistics Agent**
+2. **Booking & Logistics Agent** - Searches and recommends flights and hotels, coordinating timing and preferences to find the best travel options.
    - Finds flights and hotels
    - Uses: fast-flights, Kayak scraping
    - Output: Flight and hotel recommendations
 
-3. **Planning & Optimization Agent**
+3. **Planning & Optimization Agent** - Creates detailed day-by-day itineraries with realistic scheduling and budget optimization based on research and booking data.
    - Creates day-by-day itinerary
    - Optimizes budget
    - Uses: DuckDuckGo for timing info
